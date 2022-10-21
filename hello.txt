@@ -1,12 +1,9 @@
 hello git!
 hello git!
 hello git!
+被说话，四行老子改了
+别说话，五行老子改了
 hello git!
-hello git!
-hello git!
-hello git! master test
-hello git! hot-fix test2
-hello git! hot-fix test
 hello git!
 hello git!
 edg牛逼
